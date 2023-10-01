@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-CheeZJokesApp/static/css/main.506e469a.css",
+    "main.js": "/React-CheeZJokesApp/static/js/main.b94ed05b.js",
+    "index.html": "/React-CheeZJokesApp/index.html",
+    "main.506e469a.css.map": "/React-CheeZJokesApp/static/css/main.506e469a.css.map",
+    "main.b94ed05b.js.map": "/React-CheeZJokesApp/static/js/main.b94ed05b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.506e469a.css",
+    "static/js/main.b94ed05b.js"
+  ]
+}
